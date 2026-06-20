@@ -1,1 +1,13 @@
-
+{
+  "notes": [
+    {
+      "id": "sermon-2026-06-14",
+      "title": "Online Sunday Service || First Service || 14TH June 2026",
+      "author": "Pastor John Doe",
+      "date": "2026-06-14",
+      "description": "A message on Fruitfulness from John 15:16 during our 19th anniversary celebration.",
+      "category": "Sermon",
+      "url": "https://raw.githubusercontent.com/dcdonholm/assets/main/notes/sermon-2026-06-14.md"
+    },
+  ]
+}
